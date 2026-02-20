@@ -2,23 +2,23 @@
 This project focuses on predicting house prices using Machine Learning techniques. The goal is to build and compare multiple regression models to estimate property prices based on various input features.
 The project includes data preprocessing, feature engineering, model training, hyperparameter tuning, and performance evaluation
 #  Objective
-To analyze housing data
-To preprocess and clean the dataset
-To build multiple regression models
-To evaluate and compare model performance
-To select the best-performing model for price prediction
+-To analyze housing data
+-To preprocess and clean the dataset
+-To build multiple regression models
+-To evaluate and compare model performance
+-To select the best-performing model for price prediction
 # Dataset
 The dataset contains various features related to houses such as:
-Numerical features (e.g., area, number of rooms, etc.)
-Categorical features (e.g., location, type, etc.)
-Target variable: House Price
+-Numerical features (e.g., area, number of rooms, etc.)
+-Categorical features (e.g., location, type, etc.)
+-Target variable: House Price
 # Technologies Used
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+-Python
+-NumPy
+-Pandas
+-Matplotlib
+-Seaborn
+-Scikit-learn
 # Data Preprocessing
 Handling missing values using SimpleImputer
 Encoding categorical variables using OneHotEncoder
